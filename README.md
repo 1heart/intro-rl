@@ -1,6 +1,6 @@
 # An introduction to reinforcement learning
 
-This is a brief introduction to reinforcement learning. The presentation is [here](intro-rl.pdf)
+This is the repo for a presentation on the **basics of reinforcement learning**, as well as some resources for further information. The presentation is located [here](http://yixinlin.net/intro-rl/intro-rl.pdf).
 
 ## Some resources
 
