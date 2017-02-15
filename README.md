@@ -1,6 +1,6 @@
 # An introduction to reinforcement learning
 
-This is a brief introduction to reinforcement learning.
+This is a brief introduction to reinforcement learning. The presentation is [here](intro-rl.pdf)
 
 ## Some resources
 
