@@ -4,6 +4,8 @@ This is a brief introduction to reinforcement learning.
 
 ## Some resources
 
+- [OpenAI Gym](https://gym.openai.com/)
+
 ### Books/papers
 
 - [Andrew Ng's PhD thesis](http://rll.berkeley.edu/deeprlcourse-fa15/docs/ng-thesis.pdf)
@@ -19,4 +21,5 @@ This is a brief introduction to reinforcement learning.
 
 - [Karpathy's blogpost on deep RL](http://karpathy.github.io/2016/05/31/rl/)
 - [Nervana's blogpost on deep RL](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+- [Kevin Fran's blog on reinforcement and deep learning](http://kvfrans.com/)
 
